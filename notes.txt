@@ -1,0 +1,4 @@
+float the crossed out number
+fix the button
+media only queries
+border radius of the picture
